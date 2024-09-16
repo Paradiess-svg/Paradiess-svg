@@ -1,7 +1,7 @@
 ## Hi there 👋
 [![trophy](https://github-profile-trophy.vercel.app/?username=Paradiess-svg)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Image of my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/372372861/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter/blob/master/readme/372372861/week.md)
+![](https://komarev.com/ghpvc/?username=Paradiess-svg)
 <!--
 **Paradiess-svg/Paradiess-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
