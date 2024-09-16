@@ -1,7 +1,8 @@
-## Hi there 👋
-[![trophy](https://github-profile-trophy.vercel.app/?username=Paradiess-svg)](https://github.com/ryo-ma/github-profile-trophy)
+## Hi welcome/Bonjour/Buongiorno/Sugeng rawuh/Wilujeng sumping/Guten tag/Hi selamat datang 👋
 
+Youre visitor number
 ![](https://komarev.com/ghpvc/?username=Paradiess-svg)
+Since I add this counter on 16 September 2024
 <!--
 **Paradiess-svg/Paradiess-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Paradiess-svg)](https://github.com/ryo-ma/github-profile-trophy)
+Acuhkan trophy ini, gua cuman iseng ikutin temen, sebenarnya hal ini gak penting.
+Yang penting adalah program saya bisa diambil dan digunakan oleh orang lain sesuai kegunannya!
