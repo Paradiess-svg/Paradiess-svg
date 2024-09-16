@@ -5,7 +5,7 @@ Youre visitor number
 Since I add this counter on 16 September 2024
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e475qoahk4kvjx1hj9v9kcgwuz6tptn5oonmlc902bg&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="100"/>
 </div>
 <!--
 **Paradiess-svg/Paradiess-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
