@@ -12,5 +12,4 @@ Since I add this counter on 16 September 2024
 [![trophy](https://github-profile-trophy.vercel.app/?username=Paradiess-svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
-Acuhkan trophy ini, gua cuman iseng ikutin temen, sebenarnya hal ini gak penting.
-Yang penting adalah program saya bisa diambil dan digunakan oleh orang lain sesuai kegunannya!
+<b>Terimakasih telah mengisi data!</b>
